@@ -15,4 +15,4 @@ The fully build amplifier has been characterized using an DG8SAQ VNA [5]. The in
 [2] http://www.elecrow.com  
 [3] http://www.schubert-gehaeuse.de/prod01.htm  
 [4] http://www.oppermann-electronic.de/html/durchf__c_s.html  
-[5] http://www.dg8saq.darc.de/VNWA21/index.html  
+[5] https://www.sdr-kits.net/introducing-DG8SAQ-VNWA3  
